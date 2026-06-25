@@ -15,15 +15,15 @@ This script uses the `comtradr` R package to query the Comtrade API and download
 ```
 comtrade-data-download/
 ├── scripts/
-│   └── comtrade_import_export.
+   └── comtrade_import_export.
 ```
 
 ## Prerequisites
 
 R 4.0 or later. The following packages are required:
 
-- `comtradr` — Comtrade API wrapper for R
-- `dplyr` — data manipulation
+- `comtradr` - Comtrade API wrapper for R
+- `dplyr` - data manipulation
 
 Install them by running:
 
@@ -113,9 +113,9 @@ The cleaned files contain the following columns:
 
 ## References
 
-UN Comtrade Database — https://comtradeplus.un.org
+UN Comtrade Database - https://comtradeplus.un.org
 
-comtradr R package — Schauer, E. et al. (2024). comtradr: Interface with the United Nations Comtrade API. https://docs.ropensci.org/comtradr
+comtradr R package - Schauer, E. et al. (2024). comtradr: Interface with the United Nations Comtrade API. https://docs.ropensci.org/comtradr
 
 
 
