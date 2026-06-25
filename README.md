@@ -79,7 +79,7 @@ Common ISO3 country code examples:
 | Moldova | MDA |
 | Poland | POL |
 
-A full list of ISO3 codes is available at https://unstats.un.org/unsd/tradekb/Knowledgebase/50377/Comtrade-Country-Code-and-Name
+A full list of ISO3 codes is available at https://www.iban.com/country-codes
 
 **Run the script**
 
