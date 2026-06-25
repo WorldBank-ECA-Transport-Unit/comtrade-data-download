@@ -111,6 +111,14 @@ The cleaned files contain the following columns:
 | `weight_kg` | Net weight in kilograms |
 | `value_usd` | Trade value in USD (FOB for exports, CIF for imports) |
 
+## References
+
+UN Comtrade Database — https://comtradeplus.un.org
+
+comtradr R package — Schauer, E. et al. (2024). comtradr: Interface with the United Nations Comtrade API. https://docs.ropensci.org/comtradr
+
+
+
 ## Notes
 
 The script queries all 2-digit HS commodity codes (01 to 97) and excludes aggregate World totals from the cleaned output, retaining only bilateral country pairs. API rate limits apply depending on your subscription tier. For large queries covering many years or countries, consider splitting requests and adding a pause between calls.
