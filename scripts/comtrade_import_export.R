@@ -12,7 +12,7 @@ library(comtradr)
 library(dplyr)
 
 #set up the API key
-set_primary_comtrade_key("***********************")  #add your API key here 
+set_primary_comtrade_key("your_api_key_here")  #add your API key here 
 
 #downloading the data
 #exports (origin)
